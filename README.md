@@ -24,5 +24,7 @@ The training set (train.csv) contains a large number of customer visits with the
 For each visit, you must submit a TripType:
 ## Submission Format
 You must submit a csv file with the VisitNumber and a TripType mentioning the predicted Trip Type. The file must have a header and should look like the following:
+
+
  ![image](https://github.com/madan010/Python_Capstone_growthschool/assets/151483084/1359f523-4344-4f71-bc8b-7c1aae01bff1)
 
